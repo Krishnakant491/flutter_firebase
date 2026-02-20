@@ -46,4 +46,5 @@ app.*.map.json
 
 
 google-services.json
-flutter_firebase\android\app\google-services.json
+android\app\google-services.json
+build
